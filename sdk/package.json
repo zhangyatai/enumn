@@ -1,0 +1,22 @@
+{
+  "name": "caculator-markyzdb",
+  "version": "1.0.0",
+  "description": "A simple calculator module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangyatai/enumn.git"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "mark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangyatai/enumn/issues"
+  },
+  "homepage": "https://github.com/zhangyatai/enumn#readme"
+}
